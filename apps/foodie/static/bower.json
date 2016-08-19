@@ -1,0 +1,11 @@
+{
+  "name": "food_registry",
+  "authors": [
+    "Alec Barlow <abarlow85@gmail.com>"
+  ],
+  "description": "none",
+  "main": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
